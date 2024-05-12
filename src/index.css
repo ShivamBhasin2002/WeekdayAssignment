@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    @font-face { 
+        font-family:__LexendFont_7838d2;
+        src:url(/public/assets/fonts/861e8681f94a9f25-s.p.woff2) format("woff2");
+        font-display:swap;
+        font-weight:400;
+        font-style:normal;
+      } 
+}

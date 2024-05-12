@@ -3,7 +3,7 @@
 This project serves as the Assignment for a Frontend Interview.
 
 Hosted version of the platform:
-[Candidate Application Platform](https://candidate-application-platform-ten.vercel.app/)
+[Candidate Application Platform](https://weekday-assignmentten.vercel.app/)
 
 ## Installation/Environment Setup
 1. Clone this repository to your local system.
